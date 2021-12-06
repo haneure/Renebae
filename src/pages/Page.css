@@ -1,0 +1,50 @@
+.center-text {
+    text-align: center;
+}
+
+.alignleft {
+	float: left;
+}
+.alignright {
+	float: right;
+}
+
+.cardImages {
+    width: 200px;
+    height: 115px;
+}
+
+.avatarImage {
+    width: 36px;
+    height: 36px;
+    margin-right: 8px;
+}
+
+.categoryCard {
+    width: 200px;
+    height: 250px;
+}
+
+.categoryTitle{
+    margin-bottom: 15px;
+}
+
+.filter{
+    top: 50px;
+    padding-left: 10px;
+    height: 275px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    overflow-x: auto;
+    overflow-y: hidden;
+    z-index: 1;
+}
+
+.filter::-webkit-scrollbar{
+    display: none;
+}
+
+.filter-options{
+    flex: 0 0 auto;
+}

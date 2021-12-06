@@ -1,0 +1,10 @@
+.itemImg {
+    aspect-ratio: 1;
+    max-width: 200px;
+    max-height: 200px;
+}
+
+.bglight {
+    background-color: #f8f9fa;
+    --border-radius: 1rem;
+}

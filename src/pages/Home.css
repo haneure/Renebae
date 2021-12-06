@@ -1,0 +1,16 @@
+.compare-button{
+    position:absolute;
+}
+
+.compare-icon{
+    size: 10px;
+}
+
+
+.wishlist-button {
+    right: 0.1%;
+    float: right !important;
+    opacity: 0.7;
+    position: absolute !important;
+    /* left: -2000px; */
+}

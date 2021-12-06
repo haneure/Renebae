@@ -1,0 +1,20 @@
+.bigTextTitle{
+    font-size: 2rem;
+}
+
+.percentageBigText {
+    font-size: 4rem;
+}
+
+.heightFull {
+    height: 100%;
+}
+
+@media screen and (max-width: 600px) {
+    .bigTextTitle{
+        font-size: 1rem;
+    }
+    .percentageBigText {
+        font-size: 2rem;
+    }
+}

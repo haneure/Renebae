@@ -1,0 +1,6 @@
+{
+	"appId": "com.lbj.ionic.renebae",
+	"appName": "Renebae",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

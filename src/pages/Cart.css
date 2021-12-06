@@ -1,0 +1,21 @@
+.coupon {
+    --background: rgba(226, 226, 226, 0.178);
+}
+
+.moveToBtn {
+    font-size: 10px;
+}
+
+.removeBtn {
+    font-size: 10px;
+}
+
+.img-container {
+    aspect-ratio: 1 / 1;
+    object-fit: scale-down;
+    /* width: w500px; */
+    /* height: 500px; */
+    /* ↔️ is double the ↕️ */
+    /* 1:1 Aspect Ratio */
+    /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+}

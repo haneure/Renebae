@@ -1,0 +1,27 @@
+.img-item{
+    width: 360px;
+    height: 200px;
+}
+
+.center-txt{
+    text-align: center;
+}
+
+.font-size20{
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.halfWidth{
+    width: 50%;
+}
+
+.categoryCard {
+    width: 200px;
+    height: 250px;
+}
+
+.cardImages {
+    width: 200px;
+    height: 115px;
+}

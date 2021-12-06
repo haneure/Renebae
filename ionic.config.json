@@ -1,0 +1,7 @@
+{
+  "name": "Renebae",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
