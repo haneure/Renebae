@@ -16,6 +16,7 @@ Renebae is an multi-cross-platform e-commerce app created with Ionic
   <img src="images/Checkout.png" height="400">
   <img src="images/Wishlist.png" height="400">
   <img src="images/Compare.png" height="400">
+  <img src="images/Compare%202.png" height="400">
   <img src="images/CRUD%20Orders.png" height="400">
   <img src="images/CRUD%20Orders%202.png" height="400">
 </p>
@@ -28,5 +29,4 @@ Renebae is an multi-cross-platform e-commerce app created with Ionic
   <img src="images/CRUDOrderAdmin3.png" height="400">
   <img src="images/CRUDCategoriesAdmin.png" height="400">
   <img src="images/CRUDProducts.png" height="400">
-  <img src="images/Compare.png" height="400">
 </p>
