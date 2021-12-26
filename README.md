@@ -1,5 +1,5 @@
 # Renebae
-Renebae is an multi-cross-platform e-commerce app created with Ionic
+Renebae is an multi-cross-platform e-commerce app created with Ionic using ReactJS
 
 # Preview
 ## Guest View
